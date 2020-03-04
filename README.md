@@ -13,6 +13,7 @@ The issue with the current website is if the administrator or subscriber failed 
 
 ### HTML: 
 <img src="/images/LoginFailureHTML.jpg">
+<img src="/images/LoginFailureCSS.jpg">
 
 ### CSS:
 .button-redirect {
