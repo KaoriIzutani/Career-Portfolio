@@ -11,4 +11,71 @@ For our final project, I worked with a group of 10-15 students on an actual thea
 
 The issue with the current website is if the administrator or subscriber failed to login, there is no user friendly way to either return to the login page and try again, reset the password or create a new account. I created custom HTML classes and then wrote CSS to style a user friendly page that allows them those three options: 
 
+### HTML: 
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/Content/Site.css" media="screen"/>
+</head>
+
+<body>
+    <!--Added option buttons and image to the page-->
+    <div class="center-box">
+        <img src="/Content/Images/oops.jpg" id="move-oops" class="center-box" alt="Oops!" />
+        <h2 class="center-box">Your login attempt was not successful.</h2>
+    </div>
+        <form>
+            <div class="center-box">
+                <a href="/Account/Login" class="button-redirect">Retry</a>
+            </div>
+            <div class="center-box">
+                <p> Not registered? Register for a new account here. </p>
+                <a href="/Account/Register" class="button-redirect">
+                    Register
+                </a>
+            </div>
+            <div class="center-box">
+                <p> Forgot your password? Click below to reset your password.</p>
+                <a href="/Account/ForgotPassword" class="button-redirect">
+                    Forgot Password
+                </a>
+            </div>
+
+        </form>
+
+</body>
+</html>
+
+
+### CSS:
+.button-redirect {
+    background-color: var(--secondary-color);
+    text-decoration:none;
+    font-size: 20px;
+    font-weight: 300;
+    color: var(--dark-color);
+    top: 10px;
+    bottom: 10px;
+    padding: 10px;
+    transition: all 600ms ease;
+   }
+
+.button-redirect:hover {
+    background: var(--main-bg-color);
+    text-decoration:none;
+    color:var(--light-color);
+}
+.center-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#move-oops {
+    position: relative;
+    top: 10px;
+    bottom: 10px;
+}
 
