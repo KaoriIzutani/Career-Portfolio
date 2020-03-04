@@ -19,3 +19,13 @@ The issue with the current website is if the administrator or subscriber failed 
 
 ## Look of the Login Failure page
 <img src="/images/LoginFailurePage.jpg">
+
+* Add Color to Subscriber Page:
+
+	The client requested that when subscribers/ticket holders login that there is a certain color scheme to be shown (a light gold color is to be applied to the buttons and logos on the webpage). The colors shown were initially black, so I updated the color scheme to the light gold color. 
+
+### CSS:
+<img src="/images/SubscriberDashCSS.jpg">
+
+## Look of the Subscriber Dashboard page:
+<img src="/images/SubscriberDash.jpg">
