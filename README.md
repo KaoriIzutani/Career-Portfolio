@@ -12,7 +12,7 @@ For our final project, I worked with a group of 10-15 students on an actual thea
 The issue with the current website is if the administrator or subscriber failed to login, there is no user friendly way to either return to the login page and try again, reset the password or create a new account. I created custom HTML classes and then wrote CSS to style a user friendly page that allows them those three options: 
 
 ### HTML: 
-<img src="/images/LoginFailure.jpg">
+<img src="/images/LoginFailureHTML.jpg">
 
 ### CSS:
 .button-redirect {
