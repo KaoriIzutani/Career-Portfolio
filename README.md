@@ -13,36 +13,9 @@ The issue with the current website is if the administrator or subscriber failed 
 
 ### HTML: 
 <img src="/images/LoginFailureHTML.jpg">
-<img src="/images/LoginFailureCSS.jpg">
 
 ### CSS:
-.button-redirect {
-    background-color: var(--secondary-color);
-    text-decoration:none;
-    font-size: 20px;
-    font-weight: 300;
-    color: var(--dark-color);
-    top: 10px;
-    bottom: 10px;
-    padding: 10px;
-    transition: all 600ms ease;
-   }
+<img src="/images/LoginFailureCSS.jpg">
 
-.button-redirect:hover {
-    background: var(--main-bg-color);
-    text-decoration:none;
-    color:var(--light-color);
-}
-.center-box {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-}
-
-#move-oops {
-    position: relative;
-    top: 10px;
-    bottom: 10px;
-}
-
+## Look of the Login Failure page
+<img src="/images/LoginFailurePage.jpg">
