@@ -1,5 +1,6 @@
 <h2 id="intro"> Live Project Introduction </h2>
 Jump to:
+
 * <a href="#login">Login Failure Page</a>
 * <a href="#subscriber">Add Color to Subscriber Page</a>
 * <a href="#other">Other Learned Skills </a>
