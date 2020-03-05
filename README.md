@@ -17,7 +17,7 @@ The issue with the current website is if the administrator or subscriber failed 
 ### CSS:
 <img src="/images/LoginFailureCSS.jpg">
 
-## Look of the Login Failure page
+### Look of the Login Failure page
 <img src="/images/LoginFailurePage.jpg">
 
 <p id="subscriber"> <strong>Add Color to Subscriber Page:</strong>
@@ -27,7 +27,7 @@ The client requested that when subscribers/ticket holders login that there is a 
 ### CSS:
 <img src="/images/SubscriberDashCSS.jpg">
 
-## Look of the Subscriber Dashboard page:
+### Look of the Subscriber Dashboard page:
 <img src="/images/SubscriberDash.jpg">
 
  <p id="other"> <strong>Other Learned Skills:</strong>
