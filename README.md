@@ -20,6 +20,9 @@ The issue with the current website is if the administrator or subscriber failed 
 
 ### Look of the Login Failure page
 <img src="/images/LoginFailurePage.jpg">
+Return to:
+
+* <a href="#intro">Top </a>
 
 <p id="subscriber"> <strong>Add Color to Subscriber Page:</strong>
 
