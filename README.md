@@ -33,6 +33,10 @@ The client requested that when subscribers/ticket holders login that there is a 
 
 ### Look of the Subscriber Dashboard page:
 <img src="/images/SubscriberDash.jpg">
+Return to:
+
+* <a href="#intro">Top </a>
+
 
  <p id="other"> <strong>Other Learned Skills:</strong>
 	
